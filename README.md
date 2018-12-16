@@ -1,10 +1,10 @@
 
-In this project I used python to access IBM DB2 server, then created tables, inserted values, used joins to combine tables, modifide tables and extracted the needed information by using SQL
-I used as sample this 3 CSV files:
+In this project I used python to access IBM DB2 server, used joins to combine tables, extracted the needed information by using SQL
+I used as a sample this 3 CSV files:
 1. Socioeconomic Indicators in Chicago
 2. Chicago Public Schools
 3. Chicago Crime Data
- I had 7 problems to solve.
+I had 7 problems to solve.
  
 #### Problem 1
 How many rows are in each dataset?
